@@ -1,0 +1,26 @@
+
+
+.App {
+  --color-black: #121212;
+  --color-primary: #34c94b;
+  --color-white: #ffffff;
+  font-family: Poppins, sans-serif;
+}
+.sectionWrapper {
+  padding: 0px 30px 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.heading {
+  color: white;
+  text-decoration-color: white;
+  text-align: center;
+  margin-top: 20px;
+}
+.heading2 {
+  margin-right: auto;
+  color: white;
+  margin-left: 5px;
+  margin-top: 5px;
+}
